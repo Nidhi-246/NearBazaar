@@ -1,0 +1,9 @@
+*..exe
+*.out
+algo-service/hello
+algo-service/*.o
+build/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
