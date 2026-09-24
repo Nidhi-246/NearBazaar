@@ -1,0 +1,4 @@
+C:/Users/girdh/NearBazaar/algo-service/CMakeFiles/hello.dir
+C:/Users/girdh/NearBazaar/algo-service/CMakeFiles/test_productstore.dir
+C:/Users/girdh/NearBazaar/algo-service/CMakeFiles/edit_cache.dir
+C:/Users/girdh/NearBazaar/algo-service/CMakeFiles/rebuild_cache.dir
