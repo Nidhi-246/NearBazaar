@@ -3,7 +3,13 @@
 algo-service/hello
 algo-service/*.o
 build/
+algo-service/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile2
+Makefile
 .DS_Store
 Thumbs.db
 .vscode/
-.idea/
+.idea
