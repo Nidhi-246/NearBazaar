@@ -13,3 +13,4 @@ Makefile
 Thumbs.db
 .vscode/
 .idea
+algo-service/include/
