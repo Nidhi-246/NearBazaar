@@ -34,3 +34,9 @@ Only Java talks to MySQL.
 
 ## Next
 - Week 2: MySQL schema, SQL basics, Queue, Priority Queue, Graph, Dijkstra
+
+## Database (started Day 9)
+- MySQL 8.0 installed and running locally
+- Database: nearbazaar
+- Tables so far: users, vendors (with FK vendors.user_id -> users.id)
+- Tested: FK constraint correctly rejects invalid user_id
