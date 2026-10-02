@@ -40,3 +40,12 @@ Only Java talks to MySQL.
 - Database: nearbazaar
 - Tables so far: users, vendors (with FK vendors.user_id -> users.id)
 - Tested: FK constraint correctly rejects invalid user_id
+
+## Database (updated Day 10)
+- Tables: users, vendors, products, vendor_inventory (all with FKs)
+- Seeded: 2 vendors (Sharma Stationery, City Book Depot), 3 products,
+  3 vendor_inventory rows
+- Tested: JOIN across vendor_inventory -> vendors -> products correctly
+  returns multiple vendors for the same product (Blue Pen), with
+  different price/stock each - this is the exact query vendor
+  discovery (spec Section 6) depends on
